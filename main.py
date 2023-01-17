@@ -3,4 +3,4 @@ api = FastAPI()
 
 @api.get("/")
 def hello():
-   return 'SIEMA ZJEBIE'
+   return 'HENLO WORLD'
